@@ -1,4 +1,4 @@
-# RSA-Factoring-Challenge
+# RSA-Factoring-Challenge for Ujunwa Faith
 
 ./factors <file>
 
