@@ -1,5 +1,3 @@
-# RSA-Factoring-Challenge for Ujunwa Faith
-
-./factors <file>
-
-./rsa <file>
+RSA Factoring Challenge
+Algorithm
+Scripting
